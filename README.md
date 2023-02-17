@@ -1,4 +1,4 @@
-# Session-UserAuth
+# NewsLetter Website
 # 
 #
 # This a news letter website prototype
