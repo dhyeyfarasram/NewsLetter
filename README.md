@@ -72,27 +72,49 @@ Installation
   yarn build
   
 📂 Project Structure
+
 NewsLetter/
+
 ├── public/              # Static assets
+
 ├── src/
+
 │   ├── assets/          # Images and other static resources
+
 │   ├── components/      # Reusable UI components
+
 │   │   ├── Footer/      # Footer component
+
 │   │   ├── Navbar/      # Navigation component
+
 │   │   └── Newsletter/  # Newsletter subscription component
+
 │   ├── pages/           # Page components
+
 │   │   ├── About/       # About page
+
 │   │   ├── Contact/     # Contact page
+
 │   │   └── Home/        # Home page
+
 │   ├── App.jsx          # Main application component
+
 │   ├── index.css        # Global CSS and Tailwind imports
+
 │   └── main.jsx         # Application entry point
+
 ├── .gitignore           # Git ignore file
+
 ├── index.html           # HTML entry point
+
 ├── package.json         # Project dependencies and scripts
+
 ├── postcss.config.js    # PostCSS configuration
+
 ├── tailwind.config.js   # Tailwind CSS configuration
+
 └── vite.config.js       # Vite configuration
+
 
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
