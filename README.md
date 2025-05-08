@@ -59,6 +59,7 @@ Installation
   yarn install
 
 3. Start the development server
+   
    bash
    npm run dev
    # or
@@ -67,6 +68,7 @@ Installation
 4. Open your browser and navigate to http://localhost:5173
 
   Building for Production
+  
   npm run build
   # or
   yarn build
